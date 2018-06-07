@@ -8,7 +8,3 @@
 <br />
 
 </div>
-
-## License
-
-MIT
